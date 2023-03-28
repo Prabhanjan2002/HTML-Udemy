@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>MY WEBSITE</title>   <!--this is the main title shownin folder-->
+</head>
+<body>
+    <h1>PRABHANJAN MISHRA</h1>
+    <p><strong>Student at </strong> <b><i>NIT</i> <em>Rourkela</em></b></p>
+    <!--p tag is used for new paragraph
+        strong and b tag used for bold letters
+        i and em tag is used for italic style of letter-->
+    <p>I love web development.</p>
+    <hr size="3" nohead>
+    <h4>Learning</h4>
+</body>
+</html>
+

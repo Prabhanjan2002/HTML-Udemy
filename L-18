@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PRABHANJAN'S WEB</title>
+</head>
+<body>
+    <center>
+   <img src="prabhanjan.png" alt="PRABHANJAN's profile pic" width="300" height="250"> 
+    <!--if i add the pic on the same folder use the name of that picture as png file-->
+    <h1>PRABHANJAN MISHRA</h1>
+    <p>learning web development</p>
+    </center>
+    
+    <hr>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PRABHANJAN'S WEB</title>
+</head>
+<body>
+    <h1>PRABHANJAN MISHRA</h1>
+    <p>learning web development</p>
+    <em>html</em>
+    <i>html</i>
+    <b>html</b>
+    <strong>html</strong>
+    <hr>
+
+
+    <ul>     <!--ul means unordered list-->
+        <li>html</li>    <!--li means list representation-->
+        <li>css</li>
+        <li>javascript</li>
+    </ul>
+
+    <ol>           <!--ol means ordered list-->
+        <li>html</li>
+        <li>css</li>
+        <li>javascript</li>
+    </ol>
+ 
+    <ol start="7">           <!--if the serial no of list youwant to start with specific numbers-->
+       <li>html</li>
+       <li>css</li>
+       <li>javascript</li>
+    </ol>
+
+    <ol type="i">           <!--if you want the serial no like i,ii,iii,iv-->
+        <li>html</li>
+        <li>css</li>
+        <li>javascript</li>
+        <li>react</li>
+    </ol>
+</body>
+</html>
